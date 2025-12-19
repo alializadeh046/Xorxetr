@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Sentinel Dashboard",
+  "description": "A professional-grade crypto trading dashboard featuring live price tracking, AI-powered sentiment analysis, interactive charts, and signal indicators with Telegram alert integration.",
+  "requestFramePermissions": []
+}
